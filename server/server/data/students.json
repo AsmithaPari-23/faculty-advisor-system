@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "mock_vr8mv8mxg",
+    "createdAt": "2026-06-26T04:34:01.252Z",
+    "updatedAt": "2026-06-26T04:34:01.252Z",
+    "studentId": "mock_0eqgp6keb",
+    "department": "Computer Science",
+    "year": 3,
+    "advisorId": "mock_5750g657i"
+  },
+  {
+    "_id": "mock_a1xlxpy2r",
+    "createdAt": "2026-06-26T04:34:01.254Z",
+    "updatedAt": "2026-06-26T04:34:01.254Z",
+    "studentId": "mock_moxu1sloc",
+    "department": "Computer Science",
+    "year": 3,
+    "advisorId": "mock_5750g657i"
+  },
+  {
+    "_id": "mock_mq4tw8ot8",
+    "createdAt": "2026-06-26T04:34:01.255Z",
+    "updatedAt": "2026-06-26T04:34:01.255Z",
+    "studentId": "mock_zvu2l1t1v",
+    "department": "Computer Science",
+    "year": 4,
+    "advisorId": "mock_5750g657i"
+  },
+  {
+    "_id": "mock_bwpj1hio0",
+    "createdAt": "2026-06-26T05:03:35.099Z",
+    "updatedAt": "2026-06-26T05:03:35.099Z",
+    "studentId": "mock_fhokcmp9j",
+    "department": "IT",
+    "year": 2,
+    "advisorId": "mock_5750g657i"
+  }
+]

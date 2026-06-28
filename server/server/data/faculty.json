@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "mock_u3oxmkftc",
+    "createdAt": "2026-06-26T04:34:01.251Z",
+    "updatedAt": "2026-06-26T04:34:01.251Z",
+    "facultyId": "mock_5750g657i",
+    "department": "Computer Science",
+    "designation": "Associate Professor"
+  },
+  {
+    "_id": "mock_t3wppdfh5",
+    "createdAt": "2026-06-26T05:05:53.321Z",
+    "updatedAt": "2026-06-26T05:05:53.321Z",
+    "facultyId": "mock_9yksu0jth",
+    "department": "IT",
+    "designation": "Assistant Professor"
+  }
+]

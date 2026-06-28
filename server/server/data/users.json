@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "mock_5750g657i",
+    "createdAt": "2026-06-26T04:34:01.242Z",
+    "updatedAt": "2026-06-26T04:34:01.243Z",
+    "name": "Dr. Evelyn Miller",
+    "email": "advisor@success.edu",
+    "password": "$2a$10$orqaK6RKuNUSjSP00gZbIemamnYDn0KhNM/YieshEVzWdAhTe4wKG",
+    "role": "faculty"
+  },
+  {
+    "_id": "mock_0eqgp6keb",
+    "createdAt": "2026-06-26T04:34:01.245Z",
+    "updatedAt": "2026-06-26T04:34:01.245Z",
+    "name": "Alex Mercer",
+    "email": "student@success.edu",
+    "password": "$2a$10$orqaK6RKuNUSjSP00gZbIemamnYDn0KhNM/YieshEVzWdAhTe4wKG",
+    "role": "student"
+  },
+  {
+    "_id": "mock_moxu1sloc",
+    "createdAt": "2026-06-26T04:34:01.247Z",
+    "updatedAt": "2026-06-26T04:34:01.247Z",
+    "name": "John Doe",
+    "email": "risk@success.edu",
+    "password": "$2a$10$orqaK6RKuNUSjSP00gZbIemamnYDn0KhNM/YieshEVzWdAhTe4wKG",
+    "role": "student"
+  },
+  {
+    "_id": "mock_zvu2l1t1v",
+    "createdAt": "2026-06-26T04:34:01.249Z",
+    "updatedAt": "2026-06-26T04:34:01.249Z",
+    "name": "Sarah Connor",
+    "email": "burnout@success.edu",
+    "password": "$2a$10$orqaK6RKuNUSjSP00gZbIemamnYDn0KhNM/YieshEVzWdAhTe4wKG",
+    "role": "student"
+  },
+  {
+    "_id": "mock_z146jfy5t",
+    "createdAt": "2026-06-26T04:34:01.250Z",
+    "updatedAt": "2026-06-26T04:34:01.250Z",
+    "name": "Admin HOD",
+    "email": "admin@success.edu",
+    "password": "$2a$10$orqaK6RKuNUSjSP00gZbIemamnYDn0KhNM/YieshEVzWdAhTe4wKG",
+    "role": "admin"
+  },
+  {
+    "_id": "mock_fhokcmp9j",
+    "createdAt": "2026-06-26T05:03:35.093Z",
+    "updatedAt": "2026-06-26T05:03:35.093Z",
+    "name": "Asmitha Pari",
+    "email": "asmithap23@gmail.com",
+    "password": "$2a$10$DysVAhzC0lq/7azeK16ihunedmDsa7ZkkZCO8Q6RRHa2XcC0RaAQS",
+    "role": "student"
+  },
+  {
+    "_id": "mock_9yksu0jth",
+    "createdAt": "2026-06-26T05:05:53.319Z",
+    "updatedAt": "2026-06-26T05:05:53.319Z",
+    "name": "Asmitha Pari",
+    "email": "asmithapari23@gmail.com",
+    "password": "$2a$10$XVo0CH.8BnpeqCNYhYBemOiYPHz5SPvRRapXb66MupEGbszOIkZWq",
+    "role": "faculty"
+  }
+]

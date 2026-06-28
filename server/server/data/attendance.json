@@ -1,0 +1,240 @@
+[
+  {
+    "_id": "mock_cu0u3mf4p",
+    "createdAt": "2026-06-26T04:34:01.256Z",
+    "updatedAt": "2026-06-28T13:39:48.350Z",
+    "studentId": "mock_0eqgp6keb",
+    "attendance": [
+      {
+        "subject": "Data Structures (CS101)",
+        "percentage": 85
+      },
+      {
+        "subject": "Database Systems (CS102)",
+        "percentage": 80
+      },
+      {
+        "subject": "Web Technologies (CS103)",
+        "percentage": 87
+      },
+      {
+        "subject": "Computer Networks (CS104)",
+        "percentage": 75
+      }
+    ],
+    "marks": [
+      {
+        "subject": "Data Structures (CS101)",
+        "score": 82
+      },
+      {
+        "subject": "Database Systems (CS102)",
+        "score": 78
+      },
+      {
+        "subject": "Web Technologies (CS103)",
+        "score": 88
+      },
+      {
+        "subject": "Computer Networks (CS104)",
+        "score": 75
+      }
+    ],
+    "assignments": {
+      "completed": 15,
+      "pending": 1
+    },
+    "projects": [
+      {
+        "title": "AI Portfolio Platform",
+        "status": "Completed"
+      },
+      {
+        "title": "E-commerce Microservices",
+        "status": "In Progress"
+      }
+    ],
+    "certifications": [
+      {
+        "certificateName": "AWS Cloud Practitioner",
+        "date": "2026-02-15T00:00:00.000Z"
+      },
+      {
+        "certificateName": "HackerRank Problem Solving (Gold)",
+        "date": "2026-05-10T00:00:00.000Z"
+      }
+    ],
+    "aptitudeScore": 82,
+    "codingPracticeHours": 104,
+    "communicationScore": 80
+  },
+  {
+    "_id": "mock_ae2ejq1fp",
+    "createdAt": "2026-06-26T04:34:01.259Z",
+    "updatedAt": "2026-06-28T13:40:27.283Z",
+    "studentId": "mock_moxu1sloc",
+    "attendance": [
+      {
+        "subject": "Data Structures (CS101)",
+        "percentage": 55
+      },
+      {
+        "subject": "Database Systems (CS102)",
+        "percentage": 60
+      },
+      {
+        "subject": "Web Technologies (CS103)",
+        "percentage": 62
+      },
+      {
+        "subject": "Computer Networks (CS104)",
+        "percentage": 50
+      }
+    ],
+    "marks": [
+      {
+        "subject": "Data Structures (CS101)",
+        "score": 45
+      },
+      {
+        "subject": "Database Systems (CS102)",
+        "score": 42
+      },
+      {
+        "subject": "Web Technologies (CS103)",
+        "score": 50
+      },
+      {
+        "subject": "Computer Networks (CS104)",
+        "score": 38
+      }
+    ],
+    "assignments": {
+      "completed": 6,
+      "pending": 6
+    },
+    "projects": [
+      {
+        "title": "Static Resume Page",
+        "status": "In Progress"
+      }
+    ],
+    "certifications": [],
+    "aptitudeScore": 40,
+    "codingPracticeHours": 13,
+    "communicationScore": 55
+  },
+  {
+    "_id": "mock_ia744abks",
+    "createdAt": "2026-06-26T04:34:01.262Z",
+    "updatedAt": "2026-06-28T13:40:06.519Z",
+    "studentId": "mock_zvu2l1t1v",
+    "attendance": [
+      {
+        "subject": "Data Structures (CS101)",
+        "percentage": 68
+      },
+      {
+        "subject": "Database Systems (CS102)",
+        "percentage": 65
+      },
+      {
+        "subject": "Web Technologies (CS103)",
+        "percentage": 70
+      },
+      {
+        "subject": "Computer Networks (CS104)",
+        "percentage": 60
+      }
+    ],
+    "marks": [
+      {
+        "subject": "Data Structures (CS101)",
+        "score": 58
+      },
+      {
+        "subject": "Database Systems (CS102)",
+        "score": 55
+      },
+      {
+        "subject": "Web Technologies (CS103)",
+        "score": 62
+      },
+      {
+        "subject": "Computer Networks (CS104)",
+        "score": 54
+      }
+    ],
+    "assignments": {
+      "completed": 6,
+      "pending": 9
+    },
+    "projects": [
+      {
+        "title": "Autonomous Rover",
+        "status": "Completed"
+      },
+      {
+        "title": "Cybersecurity Sandbox",
+        "status": "Not Started"
+      }
+    ],
+    "certifications": [
+      {
+        "certificateName": "CompTIA Security+",
+        "date": "2026-01-20T00:00:00.000Z"
+      }
+    ],
+    "aptitudeScore": 68,
+    "codingPracticeHours": 35,
+    "communicationScore": 70
+  },
+  {
+    "_id": "mock_r0mrx518v",
+    "createdAt": "2026-06-26T05:03:35.101Z",
+    "updatedAt": "2026-06-28T13:39:55.063Z",
+    "studentId": "mock_fhokcmp9j",
+    "attendance": [
+      {
+        "subject": "Introduction to Programming (CS101)",
+        "percentage": 76
+      },
+      {
+        "subject": "Database Management (CS102)",
+        "percentage": 77
+      },
+      {
+        "subject": "Web Architecture (CS103)",
+        "percentage": 74
+      }
+    ],
+    "marks": [
+      {
+        "subject": "Introduction to Programming (CS101)",
+        "score": 75
+      },
+      {
+        "subject": "Database Management (CS102)",
+        "score": 70
+      },
+      {
+        "subject": "Web Architecture (CS103)",
+        "score": 78
+      }
+    ],
+    "assignments": {
+      "completed": 6,
+      "pending": 0
+    },
+    "projects": [
+      {
+        "title": "Personal Static Website",
+        "status": "Completed"
+      }
+    ],
+    "certifications": [],
+    "aptitudeScore": 65,
+    "codingPracticeHours": 28,
+    "communicationScore": 70
+  }
+]

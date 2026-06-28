@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "mock_rfm2o0wtk",
+    "createdAt": "2026-06-26T04:34:01.258Z",
+    "updatedAt": "2026-06-28T13:39:48.359Z",
+    "studentId": "mock_0eqgp6keb",
+    "successScore": 81,
+    "academicRisk": "Low Risk",
+    "burnoutRisk": "Low",
+    "placementReadiness": 80,
+    "placementStatus": "Placement Ready",
+    "careerDNA": [
+      {
+        "role": "Cybersecurity Analyst",
+        "match": 99
+      },
+      {
+        "role": "UI/UX Designer",
+        "match": 98
+      },
+      {
+        "role": "Cloud Engineer",
+        "match": 96
+      },
+      {
+        "role": "Data Analyst",
+        "match": 87
+      },
+      {
+        "role": "Full Stack Developer",
+        "match": 82
+      },
+      {
+        "role": "AI Engineer",
+        "match": 78
+      }
+    ],
+    "recommendations": [
+      "Ready for placements! Recommended to register for elite hackathons and prepare mock coding interviews."
+    ],
+    "generatedAt": "2026-06-28T13:39:48.357Z"
+  },
+  {
+    "_id": "mock_uus64jf70",
+    "createdAt": "2026-06-26T04:34:01.261Z",
+    "updatedAt": "2026-06-28T13:40:27.318Z",
+    "studentId": "mock_moxu1sloc",
+    "successScore": 44,
+    "academicRisk": "High Risk",
+    "burnoutRisk": "Medium",
+    "placementReadiness": 27,
+    "placementStatus": "Not Ready",
+    "careerDNA": [
+      {
+        "role": "UI/UX Designer",
+        "match": 68
+      },
+      {
+        "role": "Cloud Engineer",
+        "match": 59
+      },
+      {
+        "role": "Full Stack Developer",
+        "match": 58
+      },
+      {
+        "role": "AI Engineer",
+        "match": 58
+      },
+      {
+        "role": "Data Analyst",
+        "match": 54
+      },
+      {
+        "role": "Cybersecurity Analyst",
+        "match": 49
+      }
+    ],
+    "recommendations": [
+      "Request peer mentoring or additional faculty sessions for: Data Structures (CS101), Database Systems (CS102), Web Technologies (CS103), Computer Networks (CS104).",
+      "Improve class presence immediately in Data Structures (CS101), Database Systems (CS102), Web Technologies (CS103), Computer Networks (CS104) to cross the mandatory 75% threshold.",
+      "Clear the 6 pending assignments before the next weekly review to avoid performance degradation.",
+      "Initiate at least one practical capstone project to boost placement readiness.",
+      "Complete an industry certification (AWS, Google Cloud, or Cisco) to validate your professional developer profile.",
+      "Practice coding problems daily. Aiming for 60+ practice hours will significantly boost placement index."
+    ],
+    "generatedAt": "2026-06-28T13:40:27.300Z"
+  },
+  {
+    "_id": "mock_9vbf79j1n",
+    "createdAt": "2026-06-26T04:34:01.264Z",
+    "updatedAt": "2026-06-28T13:40:06.526Z",
+    "studentId": "mock_zvu2l1t1v",
+    "successScore": 54,
+    "academicRisk": "High Risk",
+    "burnoutRisk": "High",
+    "placementReadiness": 55,
+    "placementStatus": "Preparing",
+    "careerDNA": [
+      {
+        "role": "UI/UX Designer",
+        "match": 89
+      },
+      {
+        "role": "Cloud Engineer",
+        "match": 74
+      },
+      {
+        "role": "Cybersecurity Analyst",
+        "match": 72
+      },
+      {
+        "role": "Data Analyst",
+        "match": 70
+      },
+      {
+        "role": "Full Stack Developer",
+        "match": 67
+      },
+      {
+        "role": "AI Engineer",
+        "match": 65
+      }
+    ],
+    "recommendations": [
+      "Request peer mentoring or additional faculty sessions for: Data Structures (CS101), Database Systems (CS102), Web Technologies (CS103), Computer Networks (CS104).",
+      "Improve class presence immediately in Data Structures (CS101), Database Systems (CS102), Web Technologies (CS103), Computer Networks (CS104) to cross the mandatory 75% threshold.",
+      "Clear the 9 pending assignments before the next weekly review to avoid performance degradation.",
+      "Advisor Alert: Take a break from extracurricular workloads. Scheduled stress management counseling recommended.",
+      "Practice coding problems daily. Aiming for 60+ practice hours will significantly boost placement index."
+    ],
+    "generatedAt": "2026-06-28T13:40:06.524Z"
+  },
+  {
+    "_id": "mock_gyy380xtl",
+    "createdAt": "2026-06-26T05:03:35.102Z",
+    "updatedAt": "2026-06-28T13:39:55.068Z",
+    "studentId": "mock_fhokcmp9j",
+    "successScore": 74,
+    "academicRisk": "Medium Risk",
+    "burnoutRisk": "Medium",
+    "placementReadiness": 39,
+    "placementStatus": "Not Ready",
+    "careerDNA": [
+      {
+        "role": "UI/UX Designer",
+        "match": 76
+      },
+      {
+        "role": "Full Stack Developer",
+        "match": 68
+      },
+      {
+        "role": "Data Analyst",
+        "match": 68
+      },
+      {
+        "role": "AI Engineer",
+        "match": 67
+      },
+      {
+        "role": "Cloud Engineer",
+        "match": 61
+      },
+      {
+        "role": "Cybersecurity Analyst",
+        "match": 54
+      }
+    ],
+    "recommendations": [
+      "Improve class presence immediately in Web Architecture (CS103) to cross the mandatory 75% threshold.",
+      "Initiate at least one practical capstone project to boost placement readiness.",
+      "Complete an industry certification (AWS, Google Cloud, or Cisco) to validate your professional developer profile.",
+      "Practice coding problems daily. Aiming for 60+ practice hours will significantly boost placement index."
+    ],
+    "generatedAt": "2026-06-28T13:39:55.067Z"
+  }
+]
