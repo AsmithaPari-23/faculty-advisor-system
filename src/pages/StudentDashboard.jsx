@@ -61,7 +61,7 @@ const StudentDashboard = () => {
 
   useEffect(() => {
     if (!user) return;
-    const socket = io('http://localhost:5000');
+    const socket = io(import.meta.env.VITE_API_URL || 'https://faculty-advisor-system.onrender.com');
     socket.emit('join', user._id);
 
     socket.on('telemetry_update', (data) => {

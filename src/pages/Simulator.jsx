@@ -77,7 +77,7 @@ const Simulator = () => {
 
   useEffect(() => {
     // Connect to WebSockets
-    const socket = io('http://localhost:5000');
+    const socket = io(import.meta.env.VITE_API_URL || 'https://faculty-advisor-system.onrender.com');
 
     socket.on('connect', () => {
       setIsConnected(true);

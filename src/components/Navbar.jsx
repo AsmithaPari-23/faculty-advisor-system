@@ -12,7 +12,7 @@ const Navbar = () => {
     if (!user) return;
 
     // Establish WebSocket client connection
-    const socket = io('http://localhost:5000');
+    const socket = io(import.meta.env.VITE_API_URL || 'https://faculty-advisor-system.onrender.com');
     socket.emit('join', user._id);
 
     // Dynamic notification listeners
